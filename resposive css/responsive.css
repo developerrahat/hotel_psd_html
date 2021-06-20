@@ -1,0 +1,254 @@
+@media(max-width:1200px) {
+    .room-right-img img {
+        width: 460px !important;
+    }
+    .beedroom-left {
+        margin-top: 130px !important;
+    }
+}
+
+@media(max-width:1015px) {
+    .f-left-img img {
+        width: 320px;
+    }
+    .f-right-text h1 {
+        font-size: 50px;
+
+    }
+    .f-right-text p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .bdr-section {
+        padding-top:0;
+    }
+}
+
+
+@media(max-width:992px) {
+
+    .carousel-caption h1 {
+        font-size: 45px !important;
+    }
+    .carousel-caption.first-caption {
+        font-size: 15px;
+    }
+
+    .f-title h1 {
+        font-size: 45px !important;
+
+    }
+    .f-left-img img {
+        width: 280px;
+        max-width: 280px;
+    }
+    .f-left-img2 img {
+        max-width: 344px;
+    }
+    .f-right-text h1 {
+        font-size: 42px !important;
+    }
+    .f-right-text {
+        margin-top: 169px !important;
+    }
+    .f-right-text p {
+        font-size: 16px !important;
+        line-height: 29px !important;
+    }
+    .f-title h1 {
+        margin-top: 0px !important;
+
+    }
+    .room-right-img img {
+        max-width: 350px;
+    
+    }
+    .room-img2 img {
+        width: 300px !important;
+    }
+
+    .room-img2{
+        right:-50px !important;
+    }
+    .beedroom-left h1 {
+        font-size: 50px !important;
+        line-height: 3rem;
+    }
+    .beedroom-left {
+        margin-top: 110px !important;
+    }
+
+    .footer-widget p {
+        font-size: 13px !important;
+        line-height: 25px !important;
+    }
+    .footer-menu ul li a {
+        font-size: 13px !important;
+    }
+    .footer-menu ul li {
+        margin: 5px 0 !important;
+    }
+    .f-adress span {
+        font-size: 13px;
+    }
+    .news-latter h4 {
+        font-size: 20px;
+    }
+    .f-left p {
+        font-size: 13px;
+    }
+    .f-social ul li a {
+        width: 30px !important;
+        height: 30px !important;
+        line-height: 30px !important;
+        font-size: 12px !important;
+    }
+    .footer-section {
+        padding: 35px 0 !important;
+    }
+    .title-nmbr h4 {
+        font-size: 21px !important;
+    }
+    .title-nmbr a {
+        font-size: 16px !important;
+    }
+    .news-latter.mt-5 {
+        margin-top: 23px !important;
+    }
+}
+@media(max-width:668px) {
+    .carousel-caption h1 {
+        font-size: 37px !important;
+        width: 414px;
+        margin: auto;
+    }
+    .carousel-caption.first-caption p {
+        font-size: 12px !important;
+        width: 341px;
+        margin:auto;
+    }
+    .first-caption {
+        top: 13% !important;
+     
+    }
+    .f-left-img img {
+        max-width: 189px !important;
+    }
+    .f-left-img2 img {
+        max-width: 218px !important;
+    }
+    .f-left-img2 {
+        right: -30px !important;
+        bottom: -46px !important;
+    }
+    .f-right-text {
+        margin-top: 90px !important;
+    }
+    .f-right-text h1 {
+        font-size: 30px !important;
+    }
+    .f-right-text p {
+        font-size: 13px !important;
+        line-height: 27px !important;
+    }
+    .bdr-section {
+        padding-top:0 !important;
+    }
+
+    .room-right-img img {
+        max-width: 205px;
+    }
+    .beedroom-left h1 {
+        font-size: 34px !important;
+        line-height: 2.3rem;
+    }
+    .beedroom-left p {
+        font-size: 15px !important;
+    }
+    .beedroom-left {
+        margin-top: 66px !important;
+    }
+    .service-card p {
+        font-size: 12px !important;
+        line-height: 24px !important;
+    }
+    .service-card h4 {
+        font-size: 20px;
+    }
+    .service-card {
+        padding: 13px 10px !important;
+    }
+
+}
+
+@media(max-width:576px) {
+
+    .carousel-caption h1 {
+        padding-left: 0 !important;
+        margin-left: 80px !important;
+        font-size: 30px !important;
+    }
+    .carousel-caption p{
+        margin-left: 100px !important;
+    }
+    .f-title h1 {
+        font-size: 35px !important;
+    }
+    .f-left-img img {
+        max-width: 265px !important;
+    }
+    .f-left-img img {
+        max-width: 318px !important;
+    }
+    .room-right-img img {
+        max-width: 292px !important;
+    }
+    .room-img2 img {
+        max-width: 500px !important;
+    }
+    .f-left p {
+        width: 100% !important;
+        max-width: 100% !important;
+        display: block !important;
+    }
+    .f-social {
+        width: 100% !important;
+        max-width: 100% !important;
+        display: block !important;
+    }
+    .footer-widget {
+        margin-top: 20px;
+    }
+}
+
+@media(max-width:550px) {
+    .carousel-caption p{
+      display: none;
+    }
+    .carousel-caption h1 {
+        margin-left:50px !important;
+        font-size: 30px !important;
+    }
+    .first-caption {
+        top: 34% !important;
+    }
+}
+@media(max-width:510px) {
+    .carousel-caption h1 {
+        font-size: 20px !important;
+        width: 200px;
+    }
+    .first-caption {
+        top:20% !important;
+    }
+    .f-title h1 {
+        font-size: 23px !important;
+    }
+    .f-left-img {
+        margin-top: 26px !important;
+    }
+    .py-5 {
+        padding-top: 1rem !important;
+        padding-bottom: 3rem !important;
+    }
+}
